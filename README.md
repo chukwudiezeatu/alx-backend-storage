@@ -1,10 +1,10 @@
-# Storage Backend - ALX & Holberton School
+Storage Backend - ALX & Holberton School
 
-## Description
+ Description
 This repository contains programs written for the specialization section.
 
 
-## Structure
+Structure
 
 
 * [0x00. MySQL advanced](./0x00-MySQL_Advanced/)
